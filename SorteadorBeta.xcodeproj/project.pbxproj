@@ -156,6 +156,7 @@
 		A17C35211D64DDDC003C8F15 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Jonathan Suenaga";
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				A17C354A1D64DDDD003C8F15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A17C354B1D64DDDD003C8F15 /* Build configuration list for PBXNativeTarget "SorteadorBetaTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				A17C354D1D64DDDD003C8F15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
